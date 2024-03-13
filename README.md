@@ -9,7 +9,9 @@ Soy Desarrollador Full Stack y este es mi espacio para mostrar proyectos en los 
 ✔️ Estoy completamente comprometido en adquirir nuevos conocimientos.
 
 💻Habilidades:
+<li>
 ◽ Back-End: Java | Spring | Hibernate | Quarkus
 ◽ Front-End: React | HTML | CSS | JavaScript | jQuery | Bootstrap
 ◽ Base de Datos: MySQL | IBM Db2 | MongoDB
 ◽ Otros: GitHub | Postman | JIRA | Trello | Slack
+</li>
