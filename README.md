@@ -1,6 +1,6 @@
 Hola! Soy Milos 👋
 
-Soy Desarrollador Full Stack y actualmente me encuentro en busca de nuevas oportunidades laborales.
+Soy Desarrollador Full Stack y este es mi espacio para mostrar proyectos en los que he trabajado.
 
 ✔️ Mi principal interés es formar parte de un equipo de desarrollo de proyectos innovadores que me brinde las herramientas para crecer mutuamente en una empresa. Además, me gustaría aprender nuevas habilidades y ponerlas en práctica.
 
