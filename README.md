@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola! Soy Milos 👋
 
-<!--
-**miloskrali/miloskrali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Desarrollador Full Stack y actualmente me encuentro en busca de nuevas oportunidades laborales.
 
-Here are some ideas to get you started:
+✔️ Mi principal interés es formar parte de un equipo de desarrollo de proyectos innovadores que me brinde las herramientas para crecer mutuamente en una empresa. Además, me gustaría aprender nuevas habilidades y ponerlas en práctica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔️ Me considero un aprendiz rápido y una persona que siempre está dispuesta a asumir nuevos proyectos y desafíos.
+
+✔️ Estoy completamente comprometido en adquirir nuevos conocimientos.
+
+💻Habilidades:
+◽ Back-End: Java | Spring | Hibernate | Quarkus
+◽ Front-End: React | HTML | CSS | JavaScript | jQuery | Bootstrap
+◽ Base de Datos: MySQL | IBM Db2 | MongoDB
+◽ Otros: GitHub | Postman | JIRA | Trello | Slack
